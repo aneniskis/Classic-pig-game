@@ -1,0 +1,16 @@
+# Pig-game
+
+_Pig-game_
+
+Pig is a simple dice game first described in print in John Scarne in 1945. Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
+This project is for educational porpuses only.
+
+## Project features
+
+- Github pages
+- CSS
+- Javascript
+
+## Author
+
+Aleksas: [Github](https://github.com/aneniskis)
